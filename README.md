@@ -29,7 +29,7 @@ This guide is designed to help you learn and master the essential commands, maki
 17. `robocopy` - Robust file and directory copying tool.
 18. `sfc` - System File Checker to repair corrupted system files.
 
-## #Network Commands:
+### Network Commands:
 
 19. `ipconfig` - Display network configuration information.
 20. `ping` - Test network connectivity.
@@ -43,7 +43,7 @@ This guide is designed to help you learn and master the essential commands, maki
 28. `ftp` - Transfer files to/from remote FTP servers.
 29. `net` - Manage network resources.
 
-## System Information and Management:
+### System Information and Management:
 
 30. `systeminfo` - Display detailed system information.
 31. `tasklist` - List running processes.
@@ -57,7 +57,7 @@ This guide is designed to help you learn and master the essential commands, maki
 39. `ver` - Display the Windows version.
 40. `systeminfo` - Display detailed system information.
 
-## User Account Management:
+### User Account Management:
 
 41. `net user` - Manage user accounts.
 42. `net group` - Manage user groups.
@@ -66,7 +66,7 @@ This guide is designed to help you learn and master the essential commands, maki
 45. `runas` - Run a program as another user.
 46. `control userpasswords2` - User Accounts control panel.
 
-## Disk and Storage Management:
+### Disk and Storage Management:
 
 47. `diskpart` - Disk Partitioning tool.
 48. `format` - Format a disk drive.
@@ -74,7 +74,7 @@ This guide is designed to help you learn and master the essential commands, maki
 50. `diskmgmt.msc` - Disk Management console.
 51. `cleanmgr` - Disk Cleanup utility.
 
-## Miscellaneous Commands:
+### Miscellaneous Commands:
 
 52. `cls` - Clear the screen.
 53. `echo` - Display text on the screen.
@@ -85,7 +85,7 @@ This guide is designed to help you learn and master the essential commands, maki
 58. `assoc` - Display or modify file extension associations.
 59. `shutdown` - Shutdown or restart the computer.
 
-## Contribution
+### Contribution
 
 This CMD commands guide is a community effort, and we welcome your contributions to make it even more comprehensive. If you'd like to add new commands, improve existing content, or correct any errors, please follow these steps:
 
