@@ -13,10 +13,10 @@ Thank you for your interest in contributing to this project! We welcome contribu
 
 ## Contribution Guidelines
 
-- Please follow the project's coding style and conventions.
+- Please follow the project's Writing style and conventions.
 - Ensure your changes are well-documented.
 - Write clear and concise commit messages.
-- If you're adding a new feature, provide information for it in `Readme.md` file.
+- If you're adding a new Command, provide information for it in `Readme.md` file.
 - Test your changes thoroughly.
 
 ## Code of Conduct
