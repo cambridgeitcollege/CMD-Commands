@@ -28,11 +28,23 @@ This guide is designed to help you learn and master the essential commands, maki
 16. `comp` - Compare the contents of two files.
 17. `robocopy` - Robust file and directory copying tool.
 18. `sfc` - System File Checker to repair corrupted system files.
+20. `findstr` - Search for specific strings in files.
+21. `more` - Display the contents of a text file one page at a time.
+22. `sort` - Sort the contents of a text file.
+23. `xcopy /e` - Copy directories and subdirectories, including empty ones.
+24. `compact` - Compress or decompress files on an NTFS partition.
+25. `xcaccls` - Backup and restore NTFS permissions.
+26. `subst` - Associate a drive letter with a directory.
+27. `deltree` - Delete a directory and its subdirectories.
+28. `cipher` - Display or alter file encryption on NTFS volumes.
+29. `fsutil` - File system utility for managing various file system settings.
+30. `openfiles` - Display or disconnect open shared files and folders.
+
 
 ### Network Commands:
 
-19. `ipconfig` - Display network configuration information.
-20. `ping` - Test network connectivity.
+30. `ipconfig` - Display network configuration information.
+31. `ping` - Test network connectivity.
 21. `tracert` - Trace the route to a remote host.
 22. `netstat` - Display network statistics.
 23. `nslookup` - Look up IP addresses and domain names.
@@ -42,11 +54,26 @@ This guide is designed to help you learn and master the essential commands, maki
 27. `telnet` - Connect to remote hosts using Telnet.
 28. `ftp` - Transfer files to/from remote FTP servers.
 29. `net` - Manage network resources.
+31. `netsh` - Network Shell for configuring network-related settings.
+32. `net use` - Connect or disconnect a computer from shared resources.
+33. `net view` - Display a list of available network resources.
+34. `net share` - Create, delete, or manage shared folders.
+35. `net session` - View and manage network sessions.
+36. `net time` - Synchronize the computer's time with a network server.
+37. `netdom` - Domain-related management tool.
+38. `route print` - Display the routing table with more details.
+39. `nbtstat` - Display statistics and current connections using NetBIOS over TCP/IP.
+40. `ipconfig /flushdns` - Flush and reset the DNS resolver cache.
+41. `ipconfig /release` - Release the current DHCP configuration.
+42. `ipconfig /renew` - Renew the DHCP configuration.
+44. `netsh firewall` - Configure the Windows Firewall.
+45. `netstat -a` - Display all active network connections and listening ports.
+
 
 ### System Information and Management:
 
-30. `systeminfo` - Display detailed system information.
-31. `tasklist` - List running processes.
+55. `systeminfo` - Display detailed system information.
+56. `tasklist` - List running processes.
 32. `taskkill` - Terminate processes or applications.
 33. `msconfig` - System Configuration Utility.
 34. `regedit` - Registry Editor.
@@ -56,34 +83,50 @@ This guide is designed to help you learn and master the essential commands, maki
 38. `gpupdate` - Update Group Policy settings.
 39. `ver` - Display the Windows version.
 40. `systeminfo` - Display detailed system information.
+46. `gpresult` - Display Group Policy settings for the current user.
+47. `powercfg` - Configure power management settings.
+48. `bcdedit` - Boot Configuration Data Editor for managing boot options.
+49. `dxdiag` - DirectX Diagnostic Tool for troubleshooting DirectX issues.
+50. `driverquery` - List installed device drivers.
+51. `msinfo32` - System Information utility.
+52. `mmc` - Microsoft Management Console for creating custom management tools.
+53. `taskmgr` - Task Manager for managing running processes.
+54. `perfmon` - Performance Monitor for system monitoring.
+55. `wmic` - Windows Management Instrumentation Command-line tool.
+56. `schtasks` - Schedule tasks to run at specific times or events.
+
+
 
 ### User Account Management:
 
-41. `net user` - Manage user accounts.
-42. `net group` - Manage user groups.
-43. `net localgroup` - Manage local groups.
-44. `whoami` - Display the current user.
-45. `runas` - Run a program as another user.
-46. `control userpasswords2` - User Accounts control panel.
+77. `net user` - Manage user accounts.
+78. `net group` - Manage user groups.
+79. `net localgroup` - Manage local groups.
+80. `whoami` - Display the current user.
+81. `runas` - Run a program as another user.
+82. `control userpasswords2` - User Accounts control panel.
 
 ### Disk and Storage Management:
 
-47. `diskpart` - Disk Partitioning tool.
-48. `format` - Format a disk drive.
-49. `defrag` - Defragment disk drives.
-50. `diskmgmt.msc` - Disk Management console.
-51. `cleanmgr` - Disk Cleanup utility.
+83. `diskpart` - Disk Partitioning tool.
+84. `format` - Format a disk drive.
+85. `defrag` - Defragment disk drives.
+86. `diskmgmt.msc` - Disk Management console.
+87. `cleanmgr` - Disk Cleanup utility.
 
 ### Miscellaneous Commands:
 
-52. `cls` - Clear the screen.
-53. `echo` - Display text on the screen.
-54. `date` - Display or set the system date.
-55. `time` - Display or set the system time.
+88. `cls` - Clear the screen.
+89. `echo` - Display text on the screen.
+90. `date` - Display or set the system date.
+91. `time` - Display or set the system time.
 56. `help` - Get help on commands.
 57. `color` - Change the console text and background color.
 58. `assoc` - Display or modify file extension associations.
 59. `shutdown` - Shutdown or restart the computer.
+57. `shutdown /s` - Shutdown the computer (immediate).
+58. `shutdown /r` - Restart the computer (immediate).
+59. `shutdown /h` - Hibernate the computer (if supported).
 
 ### Contribution
 We welcome contributions! If you'd like to contribute to this project, please check out our [Contribution Guidelines](Contribution.md).
