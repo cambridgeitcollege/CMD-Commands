@@ -86,18 +86,10 @@ This guide is designed to help you learn and master the essential commands, maki
 59. `shutdown` - Shutdown or restart the computer.
 
 ### Contribution
+We welcome contributions! If you'd like to contribute to this project, please check out our [Contribution Guidelines](Contribution.md).
 
-This CMD commands guide is a community effort, and we welcome your contributions to make it even more comprehensive. If you'd like to add new commands, improve existing content, or correct any errors, please follow these steps:
+### Code of Conduct
+Please review our [Code of Conduct](CodeOfConduct.md) before participating in this project.
 
-1. Fork this repository.
-2. Clone your forked repository to your local machine.
-3. Make your changes or additions to the `commands.md` file.
-4. Commit your changes with clear and concise commit messages.
-5. Push your changes to your GitHub repository.
-6. Create a pull request to merge your changes into this main repository.
-
-We appreciate your contribution to this guide, and together, we can create a valuable resource for Windows Command Prompt users!
-
----
-
-*Note: This is a template, and you should add many more Windows CMD commands to reach the 200+ mark. Also, you may want to organize the commands into categories for better readability.*
+## License
+This project is licensed under the [License](LICENSE).
